@@ -10,7 +10,7 @@ In the second version of the discharge board, I added a linear regulator as this
 ![daughterboards_3D_bottomside](daughterboards/daughterboards_3D_bottomside.jpg)
 The daughterboards are a critical component of the High Voltage Battery Management System (HV BMS), responsible for monitoring and balancing the battery cells in the accumulator pack. I completed the PCB layout and routing for these boards, while the schematic design was done by Drake Vogelpohl, the HV team lead.
 
-## Rear Inverter
+## Front Inverter
 ### Control Board
 ![controlboard_3D](rear_inverter/control_board_3D.jpg)
 I assisted Du Chen with the PCB layout and routing of the control board for the custom front hub motor inverter. The control board is one layer in our three-board stackup design and manages gate drive signals, current/voltage sensing, and communication for our SiC-FET-based three-phase motor drive system.
